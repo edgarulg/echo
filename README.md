@@ -3,6 +3,7 @@
 [![Mergify Status](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/spinnaker/echo&style=flat)](https://mergify.io)
 
 test 1
+test 2
 
 `Echo` serves as two purposes within Spinnaker:  
 1. a router for events (e.g. a new build is detected by Igor which should trigger a pipeline)
