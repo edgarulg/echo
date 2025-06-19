@@ -12,6 +12,7 @@ test 7
 test 8
 test 9
 test 10
+test 11
 
 `Echo` serves as two purposes within Spinnaker:  
 1. a router for events (e.g. a new build is detected by Igor which should trigger a pipeline)
